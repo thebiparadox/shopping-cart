@@ -1,1 +1,1 @@
-Created a shopping cart for Bad Website's bootcamp using free Code Camp's Javascript and Data Structures curriculum.
+Created a shopping cart for Bad Website's bootcamp using [freeCodeCamp's Javascript and Data Structures curriculum.](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/learn-basic-oop-by-building-a-shopping-cart/step-1)
